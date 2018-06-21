@@ -4,34 +4,40 @@ You can use the [editor on GitHub](https://github.com/luckyabgelgirl/luckyabgelg
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 巴黎
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+巴黎（Paris），是法兰西共和国的首都和最大城市，也是法国的政治、经济、文化和商业中心，世界四个国际大都市之一，其余三个分别为纽约、伦敦和东京。
 
-# Header 1
-## Header 2
-### Header 3
+巴黎位于法国北部巴黎盆地的中央，横跨塞纳河两岸，城市中心坐标为北纬48°52′、东经2°25′。广义的巴黎有小巴黎和大巴黎之分。小巴黎指大环城公路以内的巴黎城市内，面积105.4平方公里，人口200多万；大巴黎包括城区周围的上塞纳省、瓦勒德马恩省、塞纳-圣但尼省、伊夫林省、瓦勒德瓦兹省、塞纳-马恩省和埃松省七个省，共同组成巴黎大区，这片地区在古代就已经被称作“法兰西岛”（ile-de-france），面积达12000平方公里，人口约1100万（2016年），几乎占全国人口的五分之一。 [1]  
 
-- Bulleted
-- List
+巴黎建都已有1400多年的历史，它不仅是法国，也是西欧的政治、经济和文化中心。2016年，巴黎的地区生产总值已达到7350.6亿美元。
 
-1. Numbered
-2. List
+2017年8月1日，国际奥委会宣布，巴黎成为2024年奥运会主办城市。
 
-**Bold** and _Italic_ and `Code` text
+2018年1月20日，法国总理爱德华·菲利普正式向法国负责世博会申办工作的部际代表帕斯卡尔·拉米提出，出于财政预算方面的考虑，巴黎将退出申办2025年世博会。
 
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 纽约
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luckyabgelgirl/luckyabgelgirl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+纽约市（City of New York，简称NYC），位于美国纽约州东南部大西洋沿岸，是美国第一大城市及第一大港口，世界第四大城市。 [1]  
 
-### Support or Contact
+纽约坐拥大纽约都会区的核心地带，是一座国际化大都市，也是世界上最大的经济中心之一。2017年，纽约的地区生产总值已达到9007亿美元，直接影响着全球的金融、媒体、政治、娱乐以及时尚界。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+纽约是美国人口最多的城市，也是个多族裔聚居的多元化城市，拥有来自97个国家和地区的移民，在此使用的语言达到800种。作为全球化的典范，纽约与伦敦、香港并称为“纽伦港”。截至2014年，纽约市大约有849万人，居住在789平方千米的土地上。而纽约大都市圈则有2000万人左右，仅次于东京、墨西哥城、孟买，位居世界第四位。 [2]  
+
+纽约在商业和金融的方面也发挥着巨大的影响力。纽约的金融区，以曼哈顿下城及华尔街为龙头，被称为世界的金融中心，世界500强企业中，有56家总部企业位于纽约。 纽约证券交易所是世界第二大证交所，它曾是最大的交易所，全球市值为15万亿美元，直到1996年它的交易量被纳斯达克超过。纽约时报广场位于百老汇剧院区枢纽，被称作“世界的十字路口”，亦是世界娱乐产业的中心之一。曼哈顿的唐人街是西半球最为密集的华人集中地。
+
+### 伦敦
+
+伦敦（London），是大不列颠及北爱尔兰联合王国（简称英国）首都，也是世界上最大的金融中心之一，与纽约和香港并称为“纽伦港。 [1]  
+
+伦敦位于英格兰东南部的平原上，泰晤士河贯穿其中，城市中心坐标为北纬51°30′、东经0.1°5′。大伦敦都会区人口约828万（2016年） [2]  ，面积为1577平方千米。2016年，伦敦的地区生产总值已达到5535亿美元。 [3]  
+
+伦敦是英国的政治、经济、文化、金融中心和世界著名的旅游胜地，有数量众多的名胜景点与博物馆。伦敦是多元化的大都市，居民来自世界各地，一座种族、宗教与文化的大熔炉城市，使用的语言超过300多种，是全球化的典范。 [4]  
+
+2018年，伦敦在世界城市规模的排名中与纽约并列位居首位。
